@@ -23,8 +23,8 @@ periods and approaches.
 
 ### Technologies I Work With
 
-<p align="center" style="pointer-events: none;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,java,git,linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,java,git,linux" draggable="false" />
 </p>
 
 <p align="center">
