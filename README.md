@@ -24,12 +24,9 @@ periods and approaches.
 ### Technologies I Work With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,java,git,linux" draggable="false" />
+  <img src="tech-stack.png" alt="Technologies" />
 </p>
 
-<p align="center">
-Primary experience with Delphi & UniGUI, alongside modern web and automation tools.
-</p>
 
 ---
 
