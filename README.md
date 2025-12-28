@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Yuşa Güverdik</h1>
 
-<!--
-**yushadev0/yushadev0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Software projects focused on structure, experimentation, and clarity.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+This profile is a personal archive of ideas, tools, and technical explorations.
+Most repositories here are not products, but snapshots of specific learning
+periods and approaches.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Focus Areas
+
+- Web-based applications
+- Automation and tooling
+- Game and interaction logic
+- Experimental interfaces
+
+---
+
+### Technologies I Work With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,delphi,git,linux" />
+</p>
+
+---
+
+<p align="center">
+Personal website: <a href="https://hasup.net">hasup.net</a>
+</p>
