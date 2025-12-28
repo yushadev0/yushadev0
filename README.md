@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, Im Yuşa</h1>
+<h1 align="center">Hey there, I'm Yuşa</h1>
 
 <p align="center">
 Software projects focused on structure, experimentation, and clarity.
