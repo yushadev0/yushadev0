@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1128px" height="510px" font-size="16px">
+<style>
+@font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; -webkit-size-adjust: 109%; size-adjust: 109%; }
+.key {fill: #ffa657;} .value {fill: #a5d6ff;} .cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="1128px" height="510px" fill="#161b22" rx="15"/>
+<text x="19" y="90" fill="#c9d1d9" class="ascii">
+<tspan x="19" y="90">                                :|jmH@H%%j%:</tspan>
+<tspan x="19" y="110">                 ';!|ljjj%mHHmk%%jl|!jH;jkm@m!</tspan>
+<tspan x="19" y="130">              ;%Hk@@@m%@@@Hkjl|!;:::::@!:::!%HHl'</tspan>
+<tspan x="19" y="150">          .|k@Hl!H@H|%k@@;:;!|lj%%%%%%@@j!:::::|H@k|.</tspan>
+<tspan x="19" y="170">        'm@@@k%HH@jHm%jl%@mj;:::::::!mk;|%H@Hkj!:!k@H%j;</tspan>
+<tspan x="19" y="190">       .@@@H@HHHl@:!@;!ljH@j%kk|::!k@m%%%jl!;;|j%kkkH@%@</tspan>
+<tspan x="19" y="210">:::''..H@@m%jmk@@ll%@H;::@%@l:;j@m@@@::::::::::::;mm@mk@!</tspan>
+<tspan x="19" y="230">|@@@@HkHmHj:::|@@%|;|@Hj|@:;Hkmk|%m:@!::::::::::%H|:;@lH%</tspan>
+<tspan x="19" y="250"> 'm%:!jkH@@l;::@lmk%j@j@@%::;mk:km::Hj::::::::|Hj::::;@H@</tspan>
+<tspan x="19" y="270">   |H|jkkl@j%kmH:::;@k|@@;::::%@m:::%m::::::;m@;::::::!@@:</tspan>
+<tspan x="19" y="290">    '@@l::@l::::::|@|:m@@%jl|;:j@l::|@:::::%H|lHj::::;j@@j</tspan>
+<tspan x="19" y="310">     lmjmH@ljjj;::|@:|@k;lkH@Hk%m@m;:@;::|Hj::::jHl:lHj@lH</tspan>
+<tspan x="19" y="330">      @mH%||!!|mk!!@l|@;:::;lm@mk%@@l@l;mm;:::::;|H@%;jHmj</tspan>
+<tspan x="19" y="350">      l@@H@H@Hk|!k@@@@kmH@@@Hm%%kH@Hm@@@jj%kkk%%m@%;::@@l</tspan>
+<tspan x="19" y="370">     '@@;@j!lm@@@@@@@@@HHmmkk%%%%%%k@mk%l|;:::|mk;::;l@!</tspan>
+<tspan x="19" y="390">      :|jkj|;:;|j%kkkmmk%jl|!;::::::|kk|::::!mk;|j%%j|'</tspan>
+<tspan x="19" y="410">                       ';|j%mH@@@Hmk%jjmH%!m@k%j|'</tspan>
+<tspan x="19" y="430">                                .:!l%km@@@kl:</tspan>
+</text>
+<text x="595" y="30" fill="#c9d1d9">
+<tspan x="595" y="30">yusa@guverdik -———————————————————————————————————————</tspan>
+<tspan x="595" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Windows 11, Ubuntu</tspan></tspan>
+<tspan x="595" y="70"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">20 years, 11 months, 22 days</tspan></tspan>
+<tspan x="595" y="90"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">Delphi, VS Code</tspan></tspan>
+<tspan x="595" y="110"><tspan class="cc">. </tspan></tspan>
+<tspan x="595" y="130"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Code</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Delphi, Python, Java, C#, Rust</tspan></tspan>
+<tspan x="595" y="150"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Web</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">JavaScript, TypeScript</tspan></tspan>
+<tspan x="595" y="170"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Turkish, English</tspan></tspan>
+<tspan x="595" y="190"><tspan class="cc">. </tspan></tspan>
+<tspan x="595" y="210"><tspan class="cc">. </tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">UniGUI, React, Vite, Tauri</tspan></tspan>
+<tspan x="595" y="230"><tspan class="cc">. </tspan><tspan class="key">Data</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">UniDAC, FireDAC, SQLite, MSSQL, MySQL</tspan></tspan>
+<tspan x="595" y="250"><tspan class="cc">. </tspan><tspan class="key">Infra</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Linux, Docker, nginx, Git</tspan></tspan>
+<tspan x="595" y="270"><tspan class="cc">. </tspan></tspan>
+<tspan x="595" y="290"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Game dev with Godot &amp; Unity</tspan></tspan>
+<tspan x="595" y="330">- Contact -———————————————————————————————————————————</tspan>
+<tspan x="595" y="350"><tspan class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">yusaguverdik@gmail.com</tspan></tspan>
+<tspan x="595" y="370"><tspan class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">yusa.app</tspan></tspan>
+<tspan x="595" y="390"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">yusaguverdik</tspan></tspan>
+<tspan x="595" y="430">- GitHub Stats -——————————————————————————————————————</tspan>
+<tspan x="595" y="450"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">0</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">0</tspan>} | <tspan class="cc"></tspan><tspan class="key">Stars</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">0</tspan></tspan>
+<tspan x="595" y="470"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">0</tspan> | <tspan class="cc"></tspan><tspan class="key">Followers</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">0</tspan></tspan>
+<tspan x="595" y="490"><tspan class="cc">. </tspan><tspan class="key">Contributions</tspan>.<tspan class="key">LastYear</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">0</tspan></tspan>
+</text>
+</svg>
