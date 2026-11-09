@@ -23,8 +23,8 @@ CHAR_W = 9.6
 LINE_H = 20
 TOP = 30
 PAD = 15
-INFO_X = 595
-INFO_COLS = 54
+INFO_X = 715
+INFO_COLS = 52
 
 THEMES = {
     "dark": dict(bg="#161b22", text="#c9d1d9", key="#ffa657", value="#a5d6ff", cc="#616e7f"),
@@ -160,12 +160,12 @@ def fmt(n):
 
 
 def info_rows(today, s):
-    pipe = 33  # column of the " | " separator in the two-stat rows
+    pipe = 32  # column of the " | " separator in the two-stat rows
     right = INFO_COLS - pipe - 3
     contrib = [(None, " {"), ("key", "Contributed"), (None, ": "), ("value", fmt(s["contributed"])), (None, "}")]
     contrib_len = len(f" {{Contributed: {fmt(s['contributed'])}}}")
     return [
-        title("yusa@guverdik"),
+        title("yusha@github"),
         kv(["OS"], "Windows 11, Ubuntu"),
         kv(["Uptime"], age_text(today)),
         kv(["IDE"], "Delphi, VS Code"),
@@ -179,11 +179,13 @@ def info_rows(today, s):
         kv(["Infra"], "Linux, Docker, nginx, Git"),
         blank_dot(),
         kv(["Hobbies", "Software"], "Game dev with Godot & Unity"),
+        kv(["Hobbies", "IRL"], "Motorsports, Sci-Fi, Video Games"),
         [],
         title("- Contact"),
         kv(["Email"], "yusaguverdik@gmail.com"),
         kv(["Website"], "yusa.app"),
         kv(["LinkedIn"], "yusaguverdik"),
+        kv(["Discord"], "yushagg"),
         [],
         title("- GitHub Stats"),
         kv(["Repos"], fmt(s["repos"]), pipe - contrib_len) + contrib
